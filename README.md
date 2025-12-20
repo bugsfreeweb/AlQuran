@@ -2,7 +2,7 @@
 
 **Your Complete Islamic Companion** - A modern, feature-rich Progressive Web Application (PWA) for Muslims worldwide.
 
-![Islamic Digital World](imgs/homescreen.png)
+![Islamic Digital World](assets/homescreen.png)
 
 ---
 
