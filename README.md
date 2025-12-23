@@ -277,7 +277,6 @@ This project is open source and available under the MIT License.
 - **Prayer Times**: [Aladhan API](https://aladhan.com/)
 - **Maps**: [OpenStreetMap](https://www.openstreetmap.org/) & [Leaflet](https://leafletjs.com/)
 - **Icons**: [Phosphor Icons](https://phosphoricons.com/)
-- **Development**: Matrix Agent
 
 ---
 
